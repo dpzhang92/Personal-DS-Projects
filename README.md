@@ -10,6 +10,6 @@ This project was an exercise in trying to predict nominations and winner for Bes
 
 ## Etsy Exploratory Data Analysis
 
-<a href=''>Github Link</a>
+<a href='https://github.com/dpzhang92/Personal-DS-Projects/blob/main/Etsy%20EDA/Etsy%20EDA.ipynb'>Github Link to Jupyter Notebook</a>
 
 This project is a simple exercise in exploring Etsy's marketplace and its publicly available data. In particular, I focus on the European markets and compare them to the rest of the world.
